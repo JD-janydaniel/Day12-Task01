@@ -86,13 +86,13 @@
     .five{
         background-color: rgb(43, 44, 43);
         height:200px;
-        width:800px;
+        width:850px;
         border-radius: 20px;
         margin-left: 200px;
         
         
     }
-    .col-sm-10{
+    .col-lg-10{
         flex-wrap: wrap;
         justify-content:center;
         align-content:space-around;
