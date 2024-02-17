@@ -86,7 +86,7 @@
     .five{
         background-color: rgb(43, 44, 43);
         height:200px;
-        width:1200px;
+        width:1000px;
         border-radius: 20px;
         margin-left: 150px;
         margin-right: 50px;
@@ -94,7 +94,7 @@
     }
     .col-lg-10{
         flex-wrap: wrap;
-        justify-content:space-evenly;
+        justify-content:center;
         align-content:space-around;
     }
 
