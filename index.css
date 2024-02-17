@@ -52,8 +52,8 @@
     .third{
         width: 100%;
         justify-content:space-around;
-        margin-left: 150px;
-        margin-right: 50px;
+        margin-left: 200px;
+        margin-right: 0px;
     }
     
     .two{
@@ -86,7 +86,7 @@
     .five{
         background-color: rgb(43, 44, 43);
         height:200px;
-        width:1200px;
+        width:1100px;
         border-radius: 20px;
         margin-left: 150px;
         margin-right: 50px;
