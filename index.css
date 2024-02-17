@@ -1,0 +1,100 @@
+ body{
+    background-color: rgb(213, 219, 238, 0.644);
+    width: 100%;
+ }
+ 
+ .first{
+    background-color: #2f3f3f;
+    color: white;
+    height: 120px;
+    width: 100%;
+    
+ }
+ i{
+    display: inline-block;
+    margin-left: 30px;
+    
+ }
+ h1{
+     display: inline-block;
+     margin-left: 800px;
+     margin-top:35px ;
+     font-family:monospace ;
+ }
+
+
+ .container{
+    background-color: rgba(15, 16, 20, 0.842);
+    margin-left: 0%;
+    width: 100%;
+    height:100%;
+    }
+    .one{
+        background-color:rgb(43, 44, 43) ;
+        margin-top: 60px;
+        height: 700px;
+        border-radius: 20px;
+        margin-left: 40px;
+        width: 375px;
+    }
+
+    .second{
+        background-color:rgb(43, 44, 43) ;
+        margin-top: 60px;
+        height:70px ;
+        border-radius:10px;
+        margin-left: 50px;
+        color:azure;
+        font-size: 32px;
+        width:850px;
+        
+    }
+    .third{
+        width: 100%;
+        justify-content:space-around;
+        margin-left: 150px;
+        margin-right: 50px;
+    }
+    
+    .two{
+        background-color:rgb(43, 44, 43) ;
+        height:200px;
+        width:300px;
+        margin-top:30px ;
+        border-radius: 20px;
+        display: inline-block;
+    }
+    .three{
+        background-color:rgb(43, 44, 43) ;
+        height:200px;
+        width:300px;
+        margin-top:30px ;
+        border-radius: 20px;
+        display: inline-block;
+        
+    }
+    .four{
+        background-color:rgb(43, 44, 43) ;
+        height:200px;
+        width:300px;
+        margin-top:30px ;
+        border-radius: 20px;
+        display: inline-block;
+        
+        
+    }
+    .five{
+        background-color: rgb(43, 44, 43);
+        height:200px;
+        width:1200px;
+        border-radius: 20px;
+        margin-left: 150px;
+        margin-right: 50px;
+        
+    }
+    .col-lg-10{
+        flex-wrap: wrap;
+        justify-content:space-evenly;
+        align-content:space-around;
+    }
+
