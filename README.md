@@ -1,7 +1,7 @@
 <h1>Task Day12-No-01</h1>
 <h2>Task Description</h2>
 <ul>
-  <li>Replicate the below image</li>
+  <li>Replicate the below image Template</li>
   <li>https://github.com/rvsp/HTML-CSS/blob/master/Tasks/Github-profile-page-design.jpg?raw=true</li>
 </ul>
 <ul>
